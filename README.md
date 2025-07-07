@@ -13,6 +13,8 @@ Currently, I’m combining my professional experience with continuous learning, 
 
 I thrive on technical challenges, enjoy solving problems independently, and love collaborating in dynamic teams where I can contribute and keep growing as a developer.
 
+In addition to my focus on web development, I have a strong personal interest in cybersecurity. As an autodidact, I regularly dedicate time to expanding my knowledge in this field, and I am currently preparing for the eJPTv2 certification as part of my ongoing commitment to continuous learning and self-improvement.
+
 ---
 
 ## 🛠️ Tech Stack
@@ -20,6 +22,7 @@ I thrive on technical challenges, enjoy solving problems independently, and love
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nextjs,react,javascript,typescript,tailwind,bootstrap,nodejs,php,laravel,mysql,git,linux" />
     <img src="https://skillicons.dev/icons?i=html,css,java,c,python,git,wordpress,bash,figma,npm,vscode,vim" /><br>
+    <img src="https://skillicons.dev/icons?i=redhat,kali" /><br>
 </div>
 
 ---
