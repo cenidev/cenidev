@@ -75,7 +75,7 @@ I thrive on technical challenges, enjoy solving problems independently, and love
 
 ## 🧩 Featured Project
 
-**[LogicLoop](https://github.com/Cenizas13/LogicLoop)**  
+**[LogicLoop](https://github.com/Cenizas13/LogicLoop)**  (Private for now)
 A coding platform (LeetCode style) where users can browse, filter, and solve exercises directly in the browser, with live code execution and solutions panel.  
 Built with Next.js, CodeMirror, Node.js, Tailwind CSS, JWT, and more.
 
