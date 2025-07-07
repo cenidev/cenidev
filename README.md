@@ -26,7 +26,7 @@ I thrive on technical challenges, enjoy solving problems independently, and love
 
 - **Frontend:** Next.js, React, JavaScript (ES6+), Tailwind CSS, TypeScript (learning), Bootstrap
 - **Backend:** Node.js (learning), PHP, Laravel, MySQL, XAMPP
-- **Other languages:** Java, C, C++ (currently learning, UCAM studies), Python (cybersecurity)
+- **Other languages:** Java, C, C++ (currently learning, UCAM studies), Python (cybersecurity learning)
 - **Tools:** Git & GitHub, CodeMirror, JWT, CMS experience (Sitecore, WordPress), Linux
 
 ---
