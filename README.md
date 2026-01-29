@@ -63,7 +63,7 @@ Built with Next.js, CodeMirror, Node.js, Tailwind CSS, JWT, and more.
 ## 📫 Let's Connect
 
 - [GitHub](https://github.com/Cenizas13)
-- [LinkedIn]([https://www.linkedin.com/in/antonio-candela-mira-b631262a0/](https://www.linkedin.com/in/cenidev))
+- [LinkedIn](https://www.linkedin.com/in/cenidev)
 - [Portfolio](https://cenidev-portfolio.vercel.app/)
 
 ---
