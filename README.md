@@ -17,6 +17,13 @@ In addition to my focus on web development, I have a strong personal interest in
 
 ---
 
+## Certs
+<div align="center">
+    <img src="https://github.com/ZLCube/ZLCube/raw/main/certs/ejpt-certification.svg" width="150" align="center" style="max-width: 100%;">
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
