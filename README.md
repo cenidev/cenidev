@@ -32,44 +32,8 @@ In addition to my focus on web development, I have a strong personal interest in
     <img src="https://skillicons.dev/icons?i=redhat,kali" /><br>
 </div>
 
----
-
-- **Frontend:** Next.js, React, JavaScript (ES6+), Tailwind CSS, TypeScript (learning), Bootstrap
-- **Backend:** Node.js (learning), PHP, Laravel, MySQL, XAMPP
-- **Other languages:** Java, C, C++ (currently learning, UCAM studies), Python (cybersecurity learning)
-- **Tools:** Git & GitHub, CodeMirror, JWT, CMS experience (Sitecore, WordPress), Linux
-
----
-
-## 🌱 What makes me different
-
-- **Fast Learner:** I adapt quickly and I'm not afraid to face new challenges or unknown tech.
-- **Problem Solver:** If I don't know something, I find a way. Autodidact and resourceful.
-- **Team Player:** I enjoy learning from others and working together to build great things.
-- **Ambitious:** Always pushing myself to improve, both technically and personally.
-- **Passionate about AI & Cybersecurity:** I love exploring new fields, especially security and AI.
-
----
-
-## 🧩 Featured Project
-
-**[LogicLoop](https://github.com/Cenizas13/LogicLoop)**  (Private for now) <br>
-A coding platform (LeetCode style) where users can browse, filter, and solve exercises directly in the browser, with live code execution and solutions panel.  
-Built with Next.js, CodeMirror, Node.js, Tailwind CSS, JWT, and more.
-
----
-
-## 💡 Hobbies & Interests
-
-- Cybersecurity (currently a personal interest, learning about networks and pentesting)
-- Learning new technologies & programming challenges
-- Exploring AI trends and practical applications
-
----
-
 ## 📫 Let's Connect
 
-- [GitHub](https://github.com/Cenizas13)
 - [LinkedIn](https://www.linkedin.com/in/cenidev)
 - [Portfolio](https://cenidev-portfolio.vercel.app/)
 
